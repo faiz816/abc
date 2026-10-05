@@ -1,0 +1,40 @@
+.h2{
+    color: beige;
+    background-color: #8bc7d9;
+    border-style:groove;
+}
+
+#h3{
+    background-color: #8bc7d9;
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvG-OJul-3cDaF8-MQiB2i95OeI96V78c_avoodNd97f02-71hVDsZ55U&s=10);
+background-repeat: no-repeat;
+background-position:center;
+padding:10px;
+margin: 15px;
+}
+.para{
+    background-color:#84cf1b ;
+    color:whitesmoke;
+    border: 5px solid blue;
+    border-radius: 20px;
+    border-style:double;
+  
+}
+
+.div{
+    border: 4px solid black;
+    height: 200;
+    width: 300px;
+    background-color:aqua;
+    padding:25px;
+    
+}
+
+.p1{text-decoration: line-through;}
+
+.ph1{ 
+    text-shadow: 5px 10px 15px blue ;
+}
